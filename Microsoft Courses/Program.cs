@@ -16,8 +16,6 @@ namespace Microsoft_Courses
             Console.Write(" ");
             Console.Write("I wrote not really my first line of code but it's ok :) \n");
             
-            Console.Write("lets try again then!");
-
             Console.WriteLine("This is the first line");
             Console.WriteLine("This is the second line");
         }
